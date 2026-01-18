@@ -1,0 +1,3 @@
+﻿Build path: G:/UnityProjects/2048 brainrots/Build
+Build number: 21
+PluginYG version: 2.007
